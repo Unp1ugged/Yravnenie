@@ -11,7 +11,7 @@ int main()
 	double a, b, c;
 	cin >> a >> b >> c;
 	double d = b * b - 4 * a * c;
-	cout << "d=" << d << endl;
+	cout << "d=" << d << endl; // ди
 
 	if (d > 0)
 	{
